@@ -424,7 +424,7 @@ class _FirstPageState extends State<FirstPage> {
                   }),
             )),
         Positioned(
-            bottom: 20,b 
+            bottom: 20,
             left: 20,
             child: Container(
               color: Colors.green,
